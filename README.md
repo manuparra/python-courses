@@ -48,7 +48,7 @@ Python is a powerful language which contains many features not presented in most
 
 This section is focused on a bit more complex Python elements with array management/manipulation with NumPy and graphical libraries such as MathPlotLib.
 
-See data folder required for many exercices in [datafolder]](./python-engineering/data/) 
+See data folder required for many exercices in [[datafolder]](./python-engineering/data/) 
 
 1. Introduction to numpy [[notebook]](./python-engineering/00_Introduction_to_numpy.ipynb) 
 1. Arrays management [[notebook]](./python-engineering/01_Arrays_management.ipynb) 
