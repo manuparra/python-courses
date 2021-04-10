@@ -48,7 +48,7 @@ Python is a powerful language which contains many features not presented in most
 
 This section is focused on a bit more complex Python elements with array management/manipulation with NumPy and graphical libraries such as MathPlotLib.
 
-See data folder required for many exercices in [[datafolder]](./python-engineering/data/) 
+See data folder required for many exercices in [[datafolder]](./python-engineering/data/).
 
 1. Introduction to numpy [[notebook]](./python-engineering/00_Introduction_to_numpy.ipynb) 
 1. Arrays management [[notebook]](./python-engineering/01_Arrays_management.ipynb) 
@@ -61,6 +61,10 @@ See data folder required for many exercices in [[datafolder]](./python-engineeri
 1. Arrays manipulation [[notebook]](./python-engineering/06_Arrays_manipulation.ipynb) 
 
 ## Data Science
+
+This section contains a complete data science course, covering aspects of working with data, manipulation, ETL, Data Mining and Machine Learning with Python.
+
+See data folder required for many exercices in [[datafolder]](./python-datascience/data/).
 
 1. Introduction to Pandas [[notebook]](./python-datascience/03.00-Introduction-to-Pandas.ipynb) 
 1. Introduction to Pandas Objects [[notebook]](./python-datascience/03.01-Introducing-Pandas-Objects.ipynb) 
