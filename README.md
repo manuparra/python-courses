@@ -62,3 +62,26 @@ See data folder required for many exercices in [[datafolder]](./python-engineeri
 
 ## Data Science
 
+1. Introduction to Pandas [[notebook]](./python-datascience/03.00-Introduction-to-Pandas.ipynb) 
+1. Introduction to Pandas Objects [[notebook]](./python-datascience/03.01-Introducing-Pandas-Objects.ipynb) 
+1. Data indexing and selection [[notebook]](./python-datascience/03.02-Data-Indexing-and-Selection.ipynb) 
+1. Operations in Pandas  [[notebook]](./python-datascience/03.03-Operations-in-Pandas.ipynb) 
+1. Missing values  [[notebook]](./python-datascience/03.04-Missing-Values.ipynb) 
+1. Hierarchical  [[notebook]](./python-datascience/03.05-Hierarchical-Indexing.ipynb) 
+1. Concatenating and appending data  [[notebook]](./python-datascience/03.06-Concat-And-Append.ipynb) 
+1. Joining and merging data  [[notebook]](./python-datascience/03.07-Merge-and-Join.ipynb) 
+1. Agregation and grouping data  [[notebook]](./python-datascience/03.08-Aggregation-and-Grouping.ipynb) 
+1. Pivot tables  [[notebook]](./python-datascience/03.09-Pivot-Tables.ipynb) 
+1. Working with strings  [[notebook]](./python-datascience/03.10-Working-With-Strings.ipynb) 
+1. Working with time series  [[notebook]](./python-datascience/03.11-Working-with-Time-Series.ipynb) 
+1. Performance evaluation and queries  [[notebook]](./python-datascience/03.12-Performance-Eval-and-Query.ipynb) 
+1. Introducing SciKitLearn  [[notebook]](./python-datascience/05.02-Introducing-Scikit-Learn.ipynb) 
+1. Hyper-parameters and modelo validation  [[notebook]](./python-datascience/05.03-Hyperparameters-and-Model-Validation.ipynb) 
+1. Feature engineering  [[notebook]](./python-datascience/05.04-Feature-Engineering.ipynb) 
+1. Linear regression  [[notebook]](./python-datascience/05.06-Linear-Regression.ipynb) 
+1. Support vector machine (SVM)  [[notebook]](./python-datascience/05.07-Support-Vector-Machines.ipynb) 
+1. Random forest  [[notebook]](./python-datascience/05.08-Random-Forests.ipynb) 
+1. Principal component analysis  [[notebook]](./python-datascience/05.09-Principal-Component-Analysis.ipynb) 
+1. K-Means  [[notebook]](./python-datascience/05.11-K-Means.ipynb) 
+1. Images features  [[notebook]](./python-datascience/05.14-Image-Features.ipynb) 
+
