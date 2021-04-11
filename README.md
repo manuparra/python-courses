@@ -93,9 +93,12 @@ See data folder required for many exercices in [[datafolder]](./python-datascien
 
 ## Contributions and acknowledgements
 
-This repository has been compiled from various sources of Python knowledge:
+This repository has been completed from various sources of Python:
 
 - O'Reilly DataScience: https://github.com/jakevdp/PythonDataScienceHandbook
 - Introduction to Python: https://beginnersbook.com/2018/01/introduction-to-python-programming/
 - Python for engineering: https://www.python-engineer.com/
+- Learning Python: https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf
+
+
 
