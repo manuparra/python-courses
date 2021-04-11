@@ -89,3 +89,13 @@ See data folder required for many exercices in [[datafolder]](./python-datascien
 1. K-Means  [[notebook]](./python-datascience/05.11-K-Means.ipynb) 
 1. Images features  [[notebook]](./python-datascience/05.14-Image-Features.ipynb) 
 
+
+
+## Contributions and acknowledgements
+
+This repository has been compiled from various sources of Python knowledge:
+
+- O'Reilly DataScience: https://github.com/jakevdp/PythonDataScienceHandbook
+- Introduction to Python: https://beginnersbook.com/2018/01/introduction-to-python-programming/
+- Python for engineering: https://www.python-engineer.com/
+
